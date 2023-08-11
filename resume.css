@@ -1,0 +1,24 @@
+
+table, th, td {
+                border: none;
+                text-align: center;
+                vertical-align: middle;
+                font-size: medium;
+                font-weight: normal;
+
+            }
+    
+    th, tr {
+                width: 25%;
+
+}
+
+    tr {
+                width: 25%;
+                vertical-align: right;
+                font-size: medium;
+                text-align: right;
+                padding: 30px;
+
+    }
+
